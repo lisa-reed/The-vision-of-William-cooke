@@ -1,1 +1,10 @@
 h1{color: blue;}
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: red;
+}
